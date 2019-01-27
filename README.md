@@ -4,4 +4,4 @@
 
 #in this repo we are going to learn how to use sqlite
 
-#Next we will try to use faslk api to modfify our database
+#Next we will try to use flask api to modfify our database
